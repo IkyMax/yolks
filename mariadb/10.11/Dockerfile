@@ -1,5 +1,5 @@
 # -----------------------------------------------------
-# MariaDB Image for Pterodactyl
+# MariaDB Image for Pterodactyl o
 # -----------------------------------------------------
 FROM        --platform=$TARGETOS/$TARGETARCH mariadb:10.11
 
